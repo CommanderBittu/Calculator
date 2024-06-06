@@ -151,3 +151,12 @@ img {
 .btn-clear:active {
     background-color: #d32f2f;
 }
+@media screen and (max-width: 600px) {
+    .calc {
+        width: 90%;
+    }
+
+    .btn {
+        font-size: 16px;
+    }
+}
